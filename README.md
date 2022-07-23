@@ -15,4 +15,4 @@ Find to the folder of the game you installed MelonLoader on. The files to be ref
 ###### .../Managed/Assembly-CSharp.
 
 The compiled mod needs to be moved to the mods folder
-###### .../TheStanleyParableUltraDeluxe/mods
+###### .../TheStanleyParableUltraDeluxe/mods  [The folder is created when installing MelonLoader]
